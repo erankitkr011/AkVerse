@@ -30,7 +30,7 @@ A beautiful, modern movie collection manager built with React, TypeScript, and T
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/erankitkr011/AkVerse
    cd cinevault
    ```
 
