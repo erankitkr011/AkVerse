@@ -2,7 +2,7 @@
 
 A beautiful, modern movie collection manager built with React, TypeScript, and Tailwind CSS. Keep track of your favorite movies with an elegant, production-ready interface.
 
-![AkVault Preview](https://images.unsplash.com/photo-1489599735734-79b4169c4388?w=1200&h=600&fit=crop&crop=center)
+![AkVault Preview](./features.png)
 
 ## ✨ Features
 
